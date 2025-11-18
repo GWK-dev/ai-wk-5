@@ -69,3 +69,45 @@ title,abstract,publish_time,authors,journal,has_pdf_parse,has_pmc_xml_parse
 "Clinical characteristics","Analysis of clinical features","2020-02-28","Lee C, Wang D","Clinical Medicine",True,False
 "Vaccine development","Review of vaccine approaches","2020-04-10","Garcia E","Vaccine Research",False,True
 "Social distancing effectiveness","Evaluation of social impact","2020-03-22","Brown F, Davis G","Public Health",True,True
+
+
+# AI Tools Mastery Assignment
+
+## 🛠️ Overview
+Comprehensive implementation of major AI frameworks and tools including Scikit-learn, TensorFlow, and spaCy.
+
+## 📁 Structure
+- `theoretical_analysis.md`: Framework comparisons and analysis
+- `practical_implementation/`: Code implementations
+- `ethics_optimization.md`: Ethical considerations
+
+## 🚀 Quick Start
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run classical ML example
+python practical_implementation/classical_ml_sklearn.py
+
+# Run deep learning example  
+python practical_implementation/deep_learning_tensorflow.py
+
+# Run NLP example
+python practical_implementation/nlp_spacy.py
+🎯 Features
+Multiple ML framework implementations
+
+Comparative analysis of AI tools
+
+Ethical AI development practices
+
+Professional code documentation
+
+text
+
+**After uploading all Assignment 3 files, test one of the implementations:**
+```bash
+cd 3-ai-tools-mastery
+pip install -r requirements.txt
+python practical_implementation/classical_ml_sklearn.py
+
